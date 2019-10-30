@@ -6,9 +6,9 @@ Algorithm used:
 Logistic Regression
 
 Library used:
-pandas
-seaborn
-scipy
-sklearn
-numpy
-matplotlib
+pandas,
+seaborn,
+scipy,
+sklearn,
+numpy,
+matplotlib.
